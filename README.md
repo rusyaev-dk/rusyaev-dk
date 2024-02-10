@@ -12,6 +12,7 @@
 - :seedling: Studying Dart and Flutter.
 - :zap: In my free time, I read tech books and some intresting articles about mobile developing.
 - :mailbox: Contacts: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)]("https://t.me/rusyaev_dk")
+
 ---
 ### :hammer_and_wrench: Programming languages and tools:
 <div>
@@ -25,6 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
+
 ---
 ### :bar_chart: My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusyaev-dk)](https://github.com/anuraghazra/github-readme-stats)
