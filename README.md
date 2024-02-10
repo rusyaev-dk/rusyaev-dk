@@ -1,13 +1,15 @@
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZwMTFzZmFpaWlsdHc1NTIyNmVudDFlZmR2eDllbzJoZzlpeWVpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQw1KOoqGBpGU/giphy.gif" width="100"/>
+<div id="header" align="left">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdyNWRodWdrNGJqemZ4OXNqMWc4ZGFod2lwZnd6dHlhMHk2OGp0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gx54W1mSpeYMg/giphy.gif" width="100"/>
 </div>
-<div id="badges">
-  <a href="https://t.me/rusyaev_dk">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div>
+
 <h1>
-  hey there
+  Welcome to my GitHub account!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+### :man_technologist: About Me:
+- :books: I am a student at Moscow State University at the faculty of the Moscow Institute of Applied Mathematics.
+- :telescope: I develop Telegram bots on python for commercial and other needs.
+- :seedling: Studying Dart and Flutter.
+- :zap: In my free time, I read tech books and some intresting articles about mobile developing.
+- :mailbox: Contacts: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)]("https://t.me/rusyaev_dk")
