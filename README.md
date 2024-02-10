@@ -14,7 +14,7 @@
 - :mailbox: Contacts: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)]("https://t.me/rusyaev_dk")
 
 ---
-### :hammer_and_wrench: Programming languages and tools:
+### :hammer_and_wrench: Programming languages, frameworks and tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
