@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xnOWQyb3JrNnhtcG53dHd5anVobXJjNjA0emhpc3ZqaHN0ZWd2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LXxWO0pgGEma8W40A9/giphy.gif" width="100"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZwMTFzZmFpaWlsdHc1NTIyNmVudDFlZmR2eDllbzJoZzlpeWVpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQw1KOoqGBpGU/giphy.gif" width="100"/>
 </div>
 <div id="badges">
   <a href="https://t.me/rusyaev_dk">
