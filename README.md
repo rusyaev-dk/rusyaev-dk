@@ -26,8 +26,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
-
----
-### :bar_chart: My Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusyaev-dk)](https://github.com/anuraghazra/github-readme-stats)
-
