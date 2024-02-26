@@ -7,7 +7,7 @@
 </h1>
 
 ### :man_technologist: About Me:
-- :books: I am a student at Moscow State University at the faculty of the Moscow Institute of Applied Mathematics.
+- :books: I am a student at Moscow State University at the Faculty of Applied Mathematics and Computer Science.
 - :robot: I develop Telegram bots on python for commercial and other needs.
 - :seedling: Studying Dart and Flutter.
 - :zap: In my free time, I read tech books and some intresting articles about mobile developing.
