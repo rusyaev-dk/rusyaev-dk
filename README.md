@@ -7,10 +7,11 @@
 </h1>
 
 ### :man_technologist: About Me:
-- :books: I am a student at Moscow State University at the Faculty of Applied Mathematics and Computer Science.
+- :man_student: I am a student at Moscow State University at the Faculty of Applied Mathematics and Computer Science.
 - :robot: I develop Telegram bots on python for commercial and other needs.
 - :seedling: Studying Dart and Flutter.
-- :zap: In my free time, I read tech books and some intresting articles about mobile developing.
+- :books: In my free time, I read tech books and some articles about developing.
+
 - :mailbox: Contacts: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)]("https://t.me/rusyaev_dk")
 
 ---
