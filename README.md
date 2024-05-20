@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :man_technologist: About Me:
+### :man_technologist: Just a little bit about me:
 - :man_student: I am a student at Moscow State University at the Faculty of Applied Mathematics and Computer Science.
 - :robot: Develop Telegram bots on python for commercial and other needs.
 - :seedling: Studying Dart and Flutter.
