@@ -2,20 +2,15 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdyNWRodWdrNGJqemZ4OXNqMWc4ZGFod2lwZnd6dHlhMHk2OGp0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gx54W1mSpeYMg/giphy.gif" width="100"/>
 </div>
 <h1>
-  Welcome to my GitHub account!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hello there :wave:
 </h1>
 
-### :man_technologist: Just a little bit about me:
-- :man_student: I am a student at Moscow State University at the Faculty of Applied Mathematics and Computer Science.
-- :robot: Develop Telegram bots on python for commercial and other needs.
-- :seedling: Studying Dart and Flutter.
-- :books: In my free time, I read tech books and articles about programming and computer science in general.
+### :eyes: About me
+- I'm a student at Moscow State University in the Faculty of Applied Mathematics and Computer Science. There I make small interesting projects on C and C++ through semesters.
+- I develop and support Telegram Bots on Python for commercial and other needs.
+- Currently I'm actively studying Dart and Flutter.
 
-- :mailbox: Contacts: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)]("https://t.me/rusyaev_dk")
-
----
-### :hammer_and_wrench: Programming languages, frameworks and tools I work with:
+### :hammer_and_wrench: Tools I work with
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
@@ -27,3 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
+
+### :mailbox: Contacts 
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)]("https://t.me/rusyaev_dk")
+[![Telegram Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:rusyaev.du@gmail.com)
