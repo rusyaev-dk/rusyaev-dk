@@ -6,9 +6,11 @@
 </h1>
 
 ### :eyes: About me
-- I'm a student at Moscow State University in the Faculty of Applied Mathematics and Computer Science. There I make small interesting projects on C and C++ through semesters.
-- I develop and support Telegram Bots on Python for commercial and other needs.
-- Currently I'm actively studying Dart and Flutter.
+- I'm a student at Moscow State University in the Faculty of Applied Mathematics and Computer Science. There I make small interesting projects on C, C++, NASM and Python through semesters.
+Also I:
+- Developing and supporting Telegram bots on Python for commercial and other needs.
+- Creating cross-platform applications with Dart and Flutter.
+- Actively exploring the world of machine learning.
 
 ### :hammer_and_wrench: Tools I work with
 <div>
