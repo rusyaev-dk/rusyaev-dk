@@ -6,7 +6,7 @@
 </h1>
 
 ### :eyes: About me
-- I'm a student at Moscow State University in the Faculty of Applied Mathematics and Computer Science. There I make small interesting projects on C, C++, NASM and Python through semesters.
+- I'm a student at Moscow State University in the Faculty of Applied Mathematics and Computer Science. There I make small interesting projects on C and C++ through semesters.
 
 Also I:
 - Creating cross-platform applications with Dart and Flutter.
