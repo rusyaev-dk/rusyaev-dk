@@ -21,6 +21,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 
-### :mailbox: Contacts 
+### :mailbox: Contact me 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)]("https://t.me/rusyaev_dk")
-[![Telegram Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:rusyaev.du@gmail.com)
