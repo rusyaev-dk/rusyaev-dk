@@ -6,19 +6,14 @@
 </h1>
 
 ### :eyes: About me
-- I'm a student at Moscow State University in the Faculty of Applied Mathematics and Computer Science. There I make small interesting projects on C and C++ through semesters.
-
-Also I:
-- Creating cross-platform applications with Dart and Flutter.
-- Developing and supporting Telegram bots on Python for commercial and other needs.
-- Actively exploring the world of machine learning.
+- Creating wonderful cross-platform applications with Dart and Flutter.
+- Developing and supporting Telegram bots on Python for commercial needs.
 
 ### :hammer_and_wrench: Tools I work with
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
